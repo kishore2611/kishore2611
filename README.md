@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishore2611
 - 👀 I’m interested in MERN Stack Development.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently doing Job as MERN Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
